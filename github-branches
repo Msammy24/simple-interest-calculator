@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert abc123 Revert "Fix footer year typo"
+  main           def456 Merge branch 'bug-fix-typo'
+  bug-fix-typo   ghi789 Fix footer year typo
